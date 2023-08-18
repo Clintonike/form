@@ -1,3 +1,3 @@
 # form
 A simple form created using just HTML and CSS
-lately i have been playing around with html and c
+lately i have been playing around with html
